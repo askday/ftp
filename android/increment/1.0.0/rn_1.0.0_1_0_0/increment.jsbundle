@@ -1,5 +1,0 @@
-@@ -1454715,24 +1454715,150 @@
- urn 
--this._renderSVG(
-+s.default.createElement(l.View,%7Bstyle:%7Bflex:1%7D%7D,s.default.createElement(l.Text,null,%2200000%22),s.default.createElement(i.Icon,%7Bname:%22fenxiang%22%7D)
- )%7D%7D%5D
